@@ -1,4 +1,7 @@
 # The Cloud Isn't Magic, But It Might Save Your Business: A Developer's Perspective
+<p align="center">
+  <img src="./images/Guide to Cloud Migration.png" alt="Cloud Migration Banner" width="100%">
+</p>
 
 > Why organizations should move to the cloud — and why some shouldn't.
 
